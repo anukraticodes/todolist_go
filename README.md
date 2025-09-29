@@ -7,6 +7,7 @@ This project demonstrates full-stack development with clear separation of concer
 - **Frontend** → (React/Next.js, or your chosen framework) for the UI  
 
 ---
+<img width="989" height="555" alt="Screenshot 2025-09-29 at 8 47 03 PM" src="https://github.com/user-attachments/assets/3ba8d1b0-9e8d-491f-bf8c-01ed456b86d5" />
 
 ## 📂 Project Structure
 
